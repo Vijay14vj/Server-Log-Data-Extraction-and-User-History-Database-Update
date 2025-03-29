@@ -76,6 +76,3 @@ This project streamlines the process of extracting, storing, and analyzing email
 ## Author
 Vijay M
 
-## License
-This project is licensed under the MIT License.
-
